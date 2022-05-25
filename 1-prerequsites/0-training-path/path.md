@@ -1,4 +1,4 @@
-# Duration : 50 hours
+# Duration : 20 hours
 | Topic           | Duration (hours) | Status |
 | --------------- | ---------------- | ------ |
 | Terraform + AWS | 11               |        |
